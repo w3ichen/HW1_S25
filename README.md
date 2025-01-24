@@ -5,7 +5,7 @@
 ## Instructions
 NOTE: You should not use any while loops in this homework. All of these concepts can and should be implemented with for loops for multiple reasons. Using while loops for things like Newton's method and linesearches is more difficult for both you and the TA's to debug.
 
-Fill out project proposal form: [https://forms.gle/mqdpazLZ2ZnapAeCA](https://forms.gle/mqdpazLZ2ZnapAeCA)
+Fill out project proposal form: [https://forms.gle/NcbaNHSeNjTQa4e58](https://forms.gle/NcbaNHSeNjTQa4e58)
 
 In this homework we are going to explore topics in dynamics and optimization. Here is an overview of the problems:
 
@@ -15,7 +15,7 @@ In this homework we are going to explore topics in dynamics and optimization. He
 
 3. Implement a Quadratic Program (QP) solver using the log-domain interior point method. This solver will then be used in a clever way to simulate a falling brick as it makes contact with the floor. 
 
-4. Fill out project proposal form: [https://forms.gle/mqdpazLZ2ZnapAeCA](https://forms.gle/mqdpazLZ2ZnapAeCA)
+4. Fill out project proposal form: [https://forms.gle/NcbaNHSeNjTQa4e58](https://forms.gle/NcbaNHSeNjTQa4e58)
 
 ## Submission Instructions 
 
